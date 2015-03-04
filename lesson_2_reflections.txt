@@ -2,3 +2,36 @@ Prompt
 What happens when you initialize a repository? Why do you need to do it?
 
 You git, so you can git
+
+Promt
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+If you only want to commit some changes but not others
+
+Promt
+How can you use the staging area to make sure you have one commit per logical change?
+
+by diff checking it
+
+Promt
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Working on a site redesign
+
+Promt
+How do the diagrams help you visualize the branch structure?
+
+By putting it in a visual form
+
+Promt
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+changes are combined
+
+Promt
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: savs time. Cons: adds complexity.
+
+
+
