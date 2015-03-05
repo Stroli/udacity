@@ -4,6 +4,15 @@ When would you want to use a remote repository rather than keeping all your work
 When you are away from your local machien. 
 
 Promt
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote 
+repository?
 
 Version control
+
+Promt
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+a fork is to make a new seerat thing, a clone is to sontinue working ont he main branch nd a branch is to work on adding 
+something new to the main branch. 
+
+
